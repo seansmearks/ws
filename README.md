@@ -1,3 +1,4 @@
+ codex/create-random-code-generator
 # Random Code Generator
 
 A small CLI tool that generates random codes with options for:
@@ -33,3 +34,4 @@ Launch the desktop UI:
 ```bash
 python3 random_code_generator.py --ui
 ```
+ master
